@@ -1,0 +1,464 @@
+Tabel Metsaseire_2022 
+Ridade koguarv: 46761
+-------------------------------------------
+Kohustuslik atribut peab olema väärtustatud.
+Dimensioon: Täelikkus
+Probleemi liik: Puuduv väärtus
+
+
+Reegli ärivõti: exists_Programm
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Seiretöö_nimetus
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Vastutav_partner
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Vastutav_isik
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Seirekoha_KKR
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Seirekoha_nimi
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Seirekoha_staatus
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Näitaja_nimetus
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Proovi_/_vaatluse_kood
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Proovivõtja_/_vaatlejad
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Väärtuse_staatus
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: exists_Väärtuse_täpsustus
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Andmeelement peab vastama etteantud loendile.
+Dimensioon: Õigsus
+Probleemi liik: Väärtusvahemiku rikkumine
+
+
+Reegli ärivõti: patern_Programm
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Seiretöö_nimetus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Vastutav_partner
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Vastutav_isik
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Seirekoha_KKR
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Seirekoha_nimi
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Seirekoha_staatus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Näitaja_nimetus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Vaatlusgrupp
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Väärtuse_staatus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Erimärk
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Mõõdetud_väärtuse_ühik
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Väärtuse_ühik
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Analüüsimeetodi_standard
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Analüüsimeetodi_nimetus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Analüüsimeetodi_tööjuhendi_nr
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Analüüsimeetodi_allikas
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: patern_Väärtuse_täpsustus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Seirekoha kood koosneb kolmest suurest tähest ja seitsmest numbrist
+Dimensioon: Reeglipärasus
+Probleemi liik: Andmemustritest kõrvalekalded
+
+
+Reegli ärivõti: formaat_Seirekoha_KKR
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Näitaja_lühend peab olema vastavuses väljaga Näitaja_nimetus.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Näitaja_lühend
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Näitaja_grupp peab olema vastavuses väljaga Näitaja_nimetus.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Näitaja_grupp
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Alamgrupp peab olema vastavuses väljaga Näitaja_nimetus.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Alamgrupp
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Liik/takson_(est) peab olema vastavuses väljaga Liik/takson_(lad).
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Liik/takson_(est)
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Liik/takson_(lad) peab olema vastavuses väljaga Sisestatud_liik_(lad).
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Liik/takson_(lad)
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Sisestatud_liik_(lad) peab olema vastavuses väljaga Liik/takson_(lad).
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Sisestatud_liik_(lad)
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Prooviprotokolli_/_vaatluslehe_nr peab olema vastavuses väljaga Proovi_/_vaatluse_kood.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Prooviprotokolli_/_vaatluslehe_nr
+
+Kontrolli läbinud ridade arv: 41064
+Kontrolli pole läbinud ridade arv: 5697
+Andmekvaliteedi hetketase: 87.82%
+
+-------------------------------------------
+Seirekoha_KKR peab olema vastavuses väljaga Seirekoha_nimi.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Seirekoha_KKR
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Vaatleja_EELIS_ID peab olema vastavuses väljaga Proovivõtja_/_vaatlejad.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Vaatleja_EELIS_ID
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Proovivõtumeetodi_nimetus peab olema vastavuses väljaga Proovi_liik.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Proovivõtumeetodi_nimetus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Proovimaatriks peab olema vastavuses väljaga Proovivõtumeetodi_nimetus.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Proovimaatriks
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Mullaproov peab olema vastavuses väljaga Mullahorisont.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Mullaproov
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Mullahorisont peab olema vastavuses väljaga Mullaproovi_sügavus.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Mullahorisont
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Mullaproovi_sügavus peab olema vastavuses väljaga Mullaproov.
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: correlation_Mullaproovi_sügavus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+x L-EST97 peab jääma vahemikku 6383851 ja 6606656
+Dimensioon: Õigsus
+Probleemi liik: Väärtusvahemiku rikkumine
+
+
+Reegli ärivõti: condition_Seirekoha_x_L-EST97
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: condition_Sisestatud_x_L-EST97
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+y L-EST97 peab jääma vahemikku 387377 ja 733508
+Dimensioon: Õigsus
+Probleemi liik: Väärtusvahemiku rikkumine
+
+
+Reegli ärivõti: condition_Seirekoha_y_L-EST97
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+
+Reegli ärivõti: condition_Sisestatud_y_L-EST97
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Mõõdetud arväärtus peab olema lubatud piirväärtuste vahemikus.
+Dimensioon: Õigsus
+Probleemi liik: Väärtusvahemiku rikkumine
+
+
+Reegli ärivõti: condition_Mõõdetud_arvväärtus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+
+-------------------------------------------
+Arväärtus peab olema lubatud piirväärtuste vahemikus.
+Dimensioon: Õigsus
+Probleemi liik: Väärtusvahemiku rikkumine
+
+
+Reegli ärivõti: condition_Arvväärtus
+
+Kontrolli läbinud ridade arv: 46758
+Kontrolli pole läbinud ridade arv: 3
+Andmekvaliteedi hetketase: 99.99%
+
+-------------------------------------------
+Kui Arvväärtus väli on tühi, siis peab olema täidetud Väärtus (muu) väli
+Dimensioon: Reeglipärasus
+Probleemi liik: Funktsionaalse sõltuvuse rikkumine
+
+
+Reegli ärivõti: condition_Arvväärtus
+
+Kontrolli läbinud ridade arv: 46761
+Kontrolli pole läbinud ridade arv: 0
+Andmekvaliteedi hetketase: 100.00%
+

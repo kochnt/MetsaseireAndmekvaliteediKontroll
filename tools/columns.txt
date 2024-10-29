@@ -1,0 +1,527 @@
+(['Programm', 'Seiretöö_nimetus', 'Vastutav_partner', 'Vastutav_isik',
+       'Seirekoha_KKR', 'Seirekoha_nimi', 'Jahipiirkonna_peamine_maakond',
+       'Seirekoha_staatus', 'Seirekoha_x_L-EST97', 'Seirekoha_y_L-EST97',
+       'Sisestatud_x_L-EST97', 'Sisestatud_y_L-EST97', 'Seotud_seirejaama_KKR',
+       'Seotud_seirejaama_nimi', 'Seotud_seirejaama_x_L-EST97',
+       'Seotud_seirejaama_y_L-EST97', 'Veekogu_KKR', 'Veekogu_nimi',
+       'Seirekogumi_kood', 'Seirekogumi_nimi', 'Veekogumi_tüüp',
+       'Puuraugu_KKR', 'Põhjaveekiht', 'Näitaja_nimetus', 'Näitaja_lühend',
+       'Näitaja_grupp', 'Alamgrupp', 'Liik/takson_(est)', 'Liik/takson_(lad)',
+       'Sisestatud_liik_(lad)', 'Isendi_nr', 'Liigi_kategooria',
+       'Proovi_/_vaatluse_kood', 'Prooviprotokolli_/_vaatluslehe_nr',
+       'Proovi_/_vaatluse_kirjeldus', 'Proovivõtja_/_vaatlejad',
+       'Vaatleja_EELIS_ID', 'Labori_dok._nr', 'Analüüsi_aeg',
+       'Analüüsi_teostaja', 'Seireaeg', 'Seireaja_lõpp', 'Seireaja_täpsustus',
+       'Seotud_vaatlus', 'Proovi_sügavus_(m)', 'Vaatlusgrupp',
+       'Proovivõtumeetodi_nimetus', 'Proovivõtumeetodi_standard',
+       'Proovivõtumeetodi_proovivõtu_sügavus', 'Proovi_liik',
+       'Proovivõtuseade', 'Proovimaatriks', 'Püügivahendi_silmasuurus',
+       'Osa_saagist', 'Püügireisi_nr', 'Traali_tõmbe_nr',
+       'Traali_tõmbe_kestvus', 'Kordsus', 'Seireala_pindala',
+       'Väärtuse_staatus', 'Erimärk', 'Mõõdetud_arvväärtus',
+       'Mõõdetud_määramistäpsus', 'Määramispiir', 'Mõõtemääramatus',
+       'Määramatuse_kommentaar', 'Arvväärtus', 'Mõõdetud_väärtuse_ühik',
+       'Väärtuse_ühik', 'Väärtus_(muud)', 'Väärtuse_täpsustus', 'Mõõtmata',
+       'Viimane_kommentaar_väärtuse_juures', 'Analüüsimeetodi_standard',
+       'Analüüsimeetodi_nimetus', 'Analüüsimeetodi_tööjuhendi_nr',
+       'Analüüsimeetodi_allikas', 'Meetodi_täpsustus', 'Mullaproov',
+       'Mullahorisont', 'Mullaproovi_sügavus'],
+      dtype='object')
+
+
+
+1000 okka kuivkaal
+  Mõõdetud väärtuse ühik: g
+    max: 3.97, min: 0
+Aktiivne happesus
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 15.0, min: 0
+Alumiinium
+  Mõõdetud väärtuse ühik: mg/l
+    max: 2.7, min: 0
+Ammooniumlämmastik (NH4N)
+  Mõõdetud väärtuse ühik: mgN/l
+    max: 4.8, min: 0
+Asendusalumiinium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 10.0, min: 0
+Asendushappesus
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 22.0, min: 0
+Asenduskaalium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 2.4, min: 0
+Asenduskaltsium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 110.0, min: 0
+Asendusmagneesium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 8.4, min: 0
+Asendusmangaan
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 2.3, min: 0
+Asendusnaatrium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 1.2, min: 0
+Asendusraud
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 0.62, min: 0
+Boor
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 15.0, min: 0
+Boor (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 28.0, min: 0
+Elavhõbe
+  Mõõdetud väärtuse ühik: ng/g KA
+    max: 27.0, min: 0
+Elavhõbe (kõik puuliigid)
+  Mõõdetud väärtuse ühik: ng/g KA
+    max: 93.0, min: 0
+Elektrijuhtivus
+  Mõõdetud väärtuse ühik: µS/cm
+    max: 245.0, min: 0
+Fosfor
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1600.0, min: 0
+Kaadmium
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 0.69, min: 0
+  Mõõdetud väärtuse ühik: ng/g KA
+    max: 34.0, min: 0
+  Mõõdetud väärtuse ühik: µg/l
+    max: 0.26, min: 0
+Kaadmium (kõik puuliigid)
+  Mõõdetud väärtuse ühik: ng/g KA
+    max: 180.0, min: 0
+Kaalium
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 4.4, min: 0
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1700.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 33.0, min: 0
+Kaalium (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 6.0, min: 0
+Kaltsium
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 13.0, min: 0
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 41000.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 20.0, min: 0
+Kaltsium (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 16.0, min: 0
+Karbonaadid
+  Mõõdetud väärtuse ühik: g/kg KA
+    max: 42.0, min: 0
+Kloriid
+  Mõõdetud väärtuse ühik: mg/l
+    max: 29.0, min: 0
+Kroom
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 0.64, min: 0
+Kroom (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 2.3, min: 0
+Lahustunud orgaaniline süsinik
+  Mõõdetud väärtuse ühik: mgC/l
+    max: 95.0, min: 0
+Leelisus
+  Mõõdetud väärtuse ühik: µekv/l
+    max: 414.0, min: 0
+Magneesium
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 1.2, min: 0
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1800.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 7.8, min: 0
+Magneesium (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 3.1, min: 0
+Mangaan
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1400.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 0.49, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 910.0, min: 0
+Mangaan (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 940.0, min: 0
+Mullaniiskus
+  Mõõdetud väärtuse ühik: % KA
+    max: 11.1, min: 0
+Mullavett proovis
+  Mõõdetud väärtuse ühik: ml
+    max: 4866.666667, min: 0
+Naatrium
+  Mõõdetud väärtuse ühik: mg/l
+    max: 12.0, min: 0
+Nikkel
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 1.5, min: 0
+Nikkel (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 2.5, min: 0
+Nitraatlämmastik (NO3N)
+  Mõõdetud väärtuse ühik: mgN/l
+    max: 2.5, min: 0
+Orgaanilise kihi kuivkaal
+  Mõõdetud väärtuse ühik: kg/m² KA
+    max: 58.62, min: 0
+Plii
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 77.0, min: 0
+  Mõõdetud väärtuse ühik: µg/l
+    max: 11.0, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 0.1, min: 0
+Plii (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 2.4, min: 0
+Puu kõrgus
+  Mõõdetud väärtuse ühik: m
+    max: 39.3, min: 0
+Puu rinnasdiameeter
+  Mõõdetud väärtuse ühik: cm
+    max: 59.0, min: 0
+Puu vanus
+  Mõõdetud väärtuse ühik: a
+    max: 179.0, min: 0
+Raud
+  Mõõdetud väärtuse ühik: mg/l
+    max: 0.75, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 51.0, min: 0
+Raud (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 640.0, min: 0
+Sademete hulk
+  Mõõdetud väärtuse ühik: mm
+    max: 157.0, min: 0
+Sulfaatväävel (SO4S)
+  Mõõdetud väärtuse ühik: mgS/l
+    max: 26.0, min: 0
+Tsink
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 110.0, min: 0
+  Mõõdetud väärtuse ühik: µg/l
+    max: 74.0, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 20.0, min: 0
+Tsink (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 90.0, min: 0
+Vanimad okkad
+  Mõõdetud väärtuse ühik: a
+    max: 4.0, min: 0
+Varise kuivkaal m² kohta
+  Mõõdetud väärtuse ühik: kg/m²
+    max: 0.714541548, min: 0
+Varise kuivkaal m² kohta (kõik puuliigid)
+  Mõõdetud väärtuse ühik: kg/m²
+    max: 0.151646301, min: 0
+Vask
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 18.0, min: 0
+  Mõõdetud väärtuse ühik: µg/l
+    max: 40.0, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 2.3, min: 0
+Vask (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 13.0, min: 0
+Väävel
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 0.87, min: 0
+Väävel (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 1.3, min: 0
+Üldfosfor
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 1.4, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 3.6, min: 0
+Üldfosfor (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 1.5, min: 0
+Üldlämmastik
+  Mõõdetud väärtuse ühik: g/kg KA
+    max: 33.0, min: 0
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 8.8, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 10.0, min: 0
+Üldlämmastik (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 12.0, min: 0
+Üldorgaaniline süsinik
+  Mõõdetud väärtuse ühik: g/100 g KA
+    max: 48.0, min: 0
+  Mõõdetud väärtuse ühik: g/kg KA
+    max: 500.0, min: 0
+Üldorgaaniline süsinik (kõik puuliigid)
+  Mõõdetud väärtuse ühik: g/100 g KA
+    max: 50.0, min: 0
+pH
+    max: 14, min: 0
+pH (CaCl2)
+    max: 14, min: 0
+pH (H2O)
+    max: 14, min: 0
+Okastiku vanuseklassid
+    max: 10, min: 0
+
+==========================================
+Arvväärtus, Väärtuse_ühik
+1000 okka kuivkaal
+  Mõõdetud väärtuse ühik: g
+    max: 3.97, min: 0
+Aktiivne happesus
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 15.0, min: 0
+Alumiinium
+  Mõõdetud väärtuse ühik: mg/l
+    max: 2.7, min: 0
+Ammooniumlämmastik (NH4N)
+  Mõõdetud väärtuse ühik: mgN/l
+    max: 4.8, min: 0
+Asendusalumiinium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 10.0, min: 0
+Asendushappesus
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 22.0, min: 0
+Asenduskaalium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 2.4, min: 0
+Asenduskaltsium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 110.0, min: 0
+Asendusmagneesium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 8.4, min: 0
+Asendusmangaan
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 2.3, min: 0
+Asendusnaatrium
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 1.2, min: 0
+Asendusraud
+  Mõõdetud väärtuse ühik: cmol+/kg KA
+    max: 0.62, min: 0
+Boor
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 15.0, min: 0
+Boor (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 28.0, min: 0
+Elavhõbe
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 0.027, min: 0
+Elavhõbe (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 0.093, min: 0
+Elektrijuhtivus
+  Mõõdetud väärtuse ühik: µS/cm
+    max: 245.0, min: 0
+Fosfor
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1600.0, min: 0
+Kaadmium
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 0.69, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 0.00026, min: 0
+  Mõõdetud väärtuse ühik: ng/g KA
+    max: 34.0, min: 0
+Kaadmium (kõik puuliigid)
+  Mõõdetud väärtuse ühik: ng/g KA
+    max: 180.0, min: 0
+Kaalium
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 4.4, min: 0
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1700.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 33.0, min: 0
+Kaalium (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 6.0, min: 0
+Kaltsium
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 13.0, min: 0
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 41000.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 20.0, min: 0
+Kaltsium (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 16.0, min: 0
+Karbonaadid
+  Mõõdetud väärtuse ühik: g/kg KA
+    max: 42.0, min: 0
+Kloriid
+  Mõõdetud väärtuse ühik: mg/l
+    max: 29.0, min: 0
+Kroom
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 0.64, min: 0
+Kroom (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 2.3, min: 0
+Lahustunud orgaaniline süsinik
+  Mõõdetud väärtuse ühik: mg/l
+    max: 95.0, min: 0
+  Mõõdetud väärtuse ühik: mgC/l
+    max: 43.0, min: 0
+Leelisus
+  Mõõdetud väärtuse ühik: µekv/l
+    max: 414.0, min: 0
+Magneesium
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 1.2, min: 0
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1800.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 7.8, min: 0
+Magneesium (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 3.1, min: 0
+Mangaan
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1400.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 0.49, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 910.0, min: 0
+Mangaan (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 940.0, min: 0
+Mullaniiskus
+  Mõõdetud väärtuse ühik: % KA
+    max: 11.1, min: 0
+Mullavett proovis
+  Mõõdetud väärtuse ühik: ml
+    max: 4866.666667, min: 0
+Naatrium
+  Mõõdetud väärtuse ühik: mg/l
+    max: 12.0, min: 0
+Nikkel
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 1.5, min: 0
+Nikkel (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 2.5, min: 0
+Nitraatlämmastik (NO3N)
+  Mõõdetud väärtuse ühik: mgN/l
+    max: 2.5, min: 0
+Orgaanilise kihi kuivkaal
+  Mõõdetud väärtuse ühik: kg/m² KA
+    max: 58.62, min: 0
+Plii
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 77.0, min: 0
+  Mõõdetud väärtuse ühik: µg/l
+    max: 11.0, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 0.1, min: 0
+Plii (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 2.4, min: 0
+Puu kõrgus
+  Mõõdetud väärtuse ühik: m
+    max: 39.3, min: 0
+Puu rinnasdiameeter
+  Mõõdetud väärtuse ühik: cm
+    max: 59.0, min: 0
+Puu vanus
+  Mõõdetud väärtuse ühik: a
+    max: 179.0, min: 0
+Raud
+  Mõõdetud väärtuse ühik: mg/l
+    max: 0.75, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 51.0, min: 0
+Raud (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 640.0, min: 0
+Sademete hulk
+  Mõõdetud väärtuse ühik: mm
+    max: 157.0, min: 0
+Sulfaatväävel (SO4S)
+  Mõõdetud väärtuse ühik: mgS/l
+    max: 26.0, min: 0
+Tsink
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 110.0, min: 0
+  Mõõdetud väärtuse ühik: µg/l
+    max: 74.0, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 20.0, min: 0
+Tsink (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 90.0, min: 0
+Vanimad okkad
+  Mõõdetud väärtuse ühik: a
+    max: 4.0, min: 0
+Varise kuivkaal m² kohta
+  Mõõdetud väärtuse ühik: kg/m²
+    max: 0.714541548, min: 0
+Varise kuivkaal m² kohta (kõik puuliigid)
+  Mõõdetud väärtuse ühik: kg/m²
+    max: 0.151646301, min: 0
+Vask
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 18.0, min: 0
+  Mõõdetud väärtuse ühik: µg/l
+    max: 40.0, min: 0
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 2.3, min: 0
+Vask (kõik puuliigid)
+  Mõõdetud väärtuse ühik: μg/g KA
+    max: 13.0, min: 0
+Väävel
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 0.87, min: 0
+Väävel (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 1.3, min: 0
+Üldfosfor
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 1.4, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 3.6, min: 0
+Üldfosfor (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 1.5, min: 0
+Üldlämmastik
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 8.8, min: 0
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 33000.0, min: 0
+  Mõõdetud väärtuse ühik: mg/l
+    max: 10.0, min: 0
+Üldlämmastik (kõik puuliigid)
+  Mõõdetud väärtuse ühik: mg/g KA
+    max: 12.0, min: 0
+Üldorgaaniline süsinik
+  Mõõdetud väärtuse ühik: g/100 g KA
+    max: 48.0, min: 0
+  Mõõdetud väärtuse ühik: mg/kg KA
+    max: 500000.0, min: 0
+Üldorgaaniline süsinik (kõik puuliigid)
+  Mõõdetud väärtuse ühik: g/100 g KA
+    max: 50.0, min: 0
+pH
+    max: 14, min: 0
+pH (CaCl2)
+    max: 14, min: 0
+pH (H2O)
+    max: 14, min: 0
+Okastiku vanuseklassid
+    max: 10, min: 0
